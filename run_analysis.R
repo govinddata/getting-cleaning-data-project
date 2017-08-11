@@ -1,7 +1,7 @@
 ##########################################################################################################
 
 ## Coursera Getting and Cleaning Data Course Project
-## Govind Reddy
+## Govind Reddy Akkala
 ## 2017-08-11
 
 # runAnalysis.r File Description:
