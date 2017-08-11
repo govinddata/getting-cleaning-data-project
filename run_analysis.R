@@ -5,7 +5,7 @@
 ## 2017-08-11
 
 # run_analysis.r File Description:
-
+# https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 # This script will perform the following steps on the UCI HAR Dataset downloaded from 
 # 1. Merge the training and the test sets to create one data set.
 # 2. Extract only the measurements on the mean and standard deviation for each measurement. 
