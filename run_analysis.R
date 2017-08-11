@@ -4,7 +4,7 @@
 ## Govind Reddy Akkala
 ## 2017-08-11
 
-# runAnalysis.r File Description:
+# run_analysis.r File Description:
 
 # This script will perform the following steps on the UCI HAR Dataset downloaded from 
 # 1. Merge the training and the test sets to create one data set.
